@@ -1,4 +1,4 @@
-Vanilla Custom Alert Project
+## Vanilla Custom Alert Project
 
 This is a lightweight custom alert project that replaces the default JavaScript alert dialog with a fully customizable one. It allows you to display an alert message with a title and custom content, and it can be easily styled using CSS.
 
@@ -33,5 +33,5 @@ import { showCustomAlert } from './customAlert.js';
 // calling the function 
 showCustomAlert("Alert Title", "This is a custom alert message.");
 
-// cliosing the custom alert 
-showCustomAlert("Alert Title", "This is a custom alert message.");
+// closing the custom alert 
+closeCustomAlert();
