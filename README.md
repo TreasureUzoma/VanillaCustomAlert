@@ -19,9 +19,10 @@ Ensure you have a working environment that supports JavaScript.
 Installation
 ------------
 1. Clone the repository to your project directory:
-   git clone https://github.com/TreasureUzoma/VanillaCustomAlert.git
-
-2. Import the `showCustomAlert` and `closeCustomAlert` functions in your project.
+```bash
+git clone https://github.com/TreasureUzoma/VanillaCustomAlert.git
+```
+Import the `showCustomAlert` and `closeCustomAlert` functions in your project.
 
 Usage
 -----
@@ -35,3 +36,4 @@ showCustomAlert("Alert Title", "This is a custom alert message.");
 
 // closing the custom alert 
 closeCustomAlert();
+```
