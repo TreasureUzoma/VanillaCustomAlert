@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css2?family=Rubik&display=swap);
+
+* {
+    outline: none;
+    font-family: Rubik;
+}
+
+body {
+   background-color: #d37;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.my_btn {
+  padding: 15px 25px;
+  border: none;
+  background-color: #efefff;
+  color: #111;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.my_btn:hover {
+  background-color: #efeded;
+}
